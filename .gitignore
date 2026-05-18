@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Submodules / external repos (clone separately)
+coma/
+smplx/
+
+# Model weights (download separately)
+models/
+checkpoints/
+
+# Large generated data (regenerate from scripts)
+coma_mesh/
+coma_pcd/
+smplx_face_mesh/
+smplx_pcd/
+
+# Removed directories
+fer_dataset/
+combined_dataset/
+coma_pcd_balanced/
+present/
+nn_models/
+mesh/
+
+# Temporary / exploratory files
+*.ipynb
+*.pth
+skills-lock.json
+
+# Large result files (keep only key outputs)
+results/face_views_pcd/
+results/figures/
+results/*.npz

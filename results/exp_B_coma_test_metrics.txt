@@ -1,0 +1,3 @@
+accuracy: 0.1813
+macro_f1: 0.1409
+weighted_f1: 0.1774

@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "description": "FaceWarehouse-inspired primitive facial controls used to build 7-class FER emotion anchors.",
+  "controls": {
+    "neutral": {
+      "anchor": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      "targets": {
+        "mouth_open": 0.10,
+        "smile": 0.00,
+        "brow_raise": 0.00,
+        "brow_frown": 0.00,
+        "mouth_drop": 0.00
+      }
+    },
+    "smile": {
+      "anchor": [2.4, 1.8, 0.2, 0.0, 0.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.10, 0.0, 0.0],
+      "targets": {
+        "mouth_open": 0.08,
+        "smile": 0.60,
+        "brow_raise": 0.05,
+        "brow_frown": 0.00,
+        "mouth_drop": -0.10
+      }
+    },
+    "mouth_open": {
+      "anchor": [0.2, 0.2, 2.6, 2.8, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.42, 0.0, 0.0],
+      "targets": {
+        "mouth_open": 0.60,
+        "smile": 0.00,
+        "brow_raise": 0.00,
+        "brow_frown": 0.00,
+        "mouth_drop": 0.28
+      }
+    },
+    "brow_raise": {
+      "anchor": [0.2, 0.1, 0.8, 1.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.02, 0.0, 0.0],
+      "targets": {
+        "mouth_open": 0.00,
+        "smile": 0.00,
+        "brow_raise": 0.52,
+        "brow_frown": 0.00,
+        "mouth_drop": 0.00
+      }
+    },
+    "brow_frown": {
+      "anchor": [-2.8, -1.9, 0.0, 0.0, 0.9, 0.2, 0.0, 0.0, 0.0, 0.0, 0.04, 0.0, 0.0],
+      "targets": {
+        "mouth_open": 0.00,
+        "smile": -0.05,
+        "brow_raise": -0.18,
+        "brow_frown": 0.55,
+        "mouth_drop": 0.04
+      }
+    },
+    "lip_corner_down": {
+      "anchor": [-1.6, -0.4, 0.2, 0.0, -0.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.04, 0.0, 0.0],
+      "targets": {
+        "mouth_open": 0.00,
+        "smile": -0.22,
+        "brow_raise": 0.00,
+        "brow_frown": 0.05,
+        "mouth_drop": 0.26
+      }
+    },
+    "upper_lip_raise": {
+      "anchor": [-0.4, -2.4, 0.4, 0.0, 1.0, 0.25, 0.0, 0.0, 0.0, 0.0, 0.03, 0.0, 0.0],
+      "targets": {
+        "mouth_open": 0.04,
+        "smile": -0.08,
+        "brow_raise": -0.04,
+        "brow_frown": 0.18,
+        "mouth_drop": 0.02
+      }
+    },
+    "lip_pucker": {
+      "anchor": [0.0, -0.6, 0.2, 0.0, 0.1, 0.1, 0.0, 0.0, 0.0, 0.0, 0.05, 0.0, 0.0],
+      "targets": {
+        "mouth_open": 0.06,
+        "smile": -0.04,
+        "brow_raise": 0.00,
+        "brow_frown": 0.00,
+        "mouth_drop": 0.00
+      }
+    }
+  },
+  "emotion_mixes": {
+    "neutral": {
+      "neutral": 1.0
+    },
+    "happy": {
+      "smile": 1.0,
+      "mouth_open": 0.18,
+      "brow_raise": 0.10
+    },
+    "sad": {
+      "lip_corner_down": 1.0,
+      "brow_frown": 0.15,
+      "mouth_open": 0.08
+    },
+    "angry": {
+      "brow_frown": 1.0,
+      "upper_lip_raise": 0.30,
+      "mouth_open": 0.10
+    },
+    "surprise": {
+      "mouth_open": 1.0,
+      "brow_raise": 1.0
+    },
+    "fear": {
+      "mouth_open": 0.55,
+      "brow_raise": 0.75,
+      "brow_frown": 0.18
+    },
+    "disgust": {
+      "upper_lip_raise": 1.0,
+      "brow_frown": 0.35,
+      "mouth_open": 0.05
+    }
+  }
+}

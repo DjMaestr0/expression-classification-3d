@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "description": "Multiple FaceWarehouse-inspired prototype mixtures per FER emotion.",
+  "emotion_variants": {
+    "neutral": [
+      {
+        "neutral": 1.0
+      },
+      {
+        "neutral": 1.0,
+        "brow_raise": 0.08
+      }
+    ],
+    "happy": [
+      {
+        "smile": 1.0
+      },
+      {
+        "smile": 0.85,
+        "mouth_open": 0.18
+      },
+      {
+        "smile": 0.75,
+        "brow_raise": 0.15
+      }
+    ],
+    "sad": [
+      {
+        "lip_corner_down": 1.0
+      },
+      {
+        "lip_corner_down": 0.85,
+        "brow_frown": 0.20
+      },
+      {
+        "lip_corner_down": 0.75,
+        "mouth_open": 0.10
+      }
+    ],
+    "angry": [
+      {
+        "brow_frown": 1.0
+      },
+      {
+        "brow_frown": 0.9,
+        "upper_lip_raise": 0.22
+      },
+      {
+        "brow_frown": 0.8,
+        "mouth_open": 0.08,
+        "upper_lip_raise": 0.18
+      }
+    ],
+    "surprise": [
+      {
+        "mouth_open": 0.75,
+        "brow_raise": 0.9
+      },
+      {
+        "mouth_open": 0.55,
+        "brow_raise": 1.0
+      },
+      {
+        "mouth_open": 0.45,
+        "brow_raise": 0.85,
+        "lip_pucker": 0.12
+      }
+    ],
+    "fear": [
+      {
+        "mouth_open": 0.42,
+        "brow_raise": 0.62,
+        "brow_frown": 0.18
+      },
+      {
+        "mouth_open": 0.35,
+        "brow_raise": 0.72,
+        "brow_frown": 0.20
+      },
+      {
+        "mouth_open": 0.30,
+        "brow_raise": 0.65,
+        "lip_pucker": 0.10
+      }
+    ],
+    "disgust": [
+      {
+        "upper_lip_raise": 1.0
+      },
+      {
+        "upper_lip_raise": 0.9,
+        "brow_frown": 0.30
+      },
+      {
+        "upper_lip_raise": 0.8,
+        "lip_pucker": 0.15
+      }
+    ]
+  }
+}

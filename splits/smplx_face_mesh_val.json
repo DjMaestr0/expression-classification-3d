@@ -1,0 +1,1892 @@
+[
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0287.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0189.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0074.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0008.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0097.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0167.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0019.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0211.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0212.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0187.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0134.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0113.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0008.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0245.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0053.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0004.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0273.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0133.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0092.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0034.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0005.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0043.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0093.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0114.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0248.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0171.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0222.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0009.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0166.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0013.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0220.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0187.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0059.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0061.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0178.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0243.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0285.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0126.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0007.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0160.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0048.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0024.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0023.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0255.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0046.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0275.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0251.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0131.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0059.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0235.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0286.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0091.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0001.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0150.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0081.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0151.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0258.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0179.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0172.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0025.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0092.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0087.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0182.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0010.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0107.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0112.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0050.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0025.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0161.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0008.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0165.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0237.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0249.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0299.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0285.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0154.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0021.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0113.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0227.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0194.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0275.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0214.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0277.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0145.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0123.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0295.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0128.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0260.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0134.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0292.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0027.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0118.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0199.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0223.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0169.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0258.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0019.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0037.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0077.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0099.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0295.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0114.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0275.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0048.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0168.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0135.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0115.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0090.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0158.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0136.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0057.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0037.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0064.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0296.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0240.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0096.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0129.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0098.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0222.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0021.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0207.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0202.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0098.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0225.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0019.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0070.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0261.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0133.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0107.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0185.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0275.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0228.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0039.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0157.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0034.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0000.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0169.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0289.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0203.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0000.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0078.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0036.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0161.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0237.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0053.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0038.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0273.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0232.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0201.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0206.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0171.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0217.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0149.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0153.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0017.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0019.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0137.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0158.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0020.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0289.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0045.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0053.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0040.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0167.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0111.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0062.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0219.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0296.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0161.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0291.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0106.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0041.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0258.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0297.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0133.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0064.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0187.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0272.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0230.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0069.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0188.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0253.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0040.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0203.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0058.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0176.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0203.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0254.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0100.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0111.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0242.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0084.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0063.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0276.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0263.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0049.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0028.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0285.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0145.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0102.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0263.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0196.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0125.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0151.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0177.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0002.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0103.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0163.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0089.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0278.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0143.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0175.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0238.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0014.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0222.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0271.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0274.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0031.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0110.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0262.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0188.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0216.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0147.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0201.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0058.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0185.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0119.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0240.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0232.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0093.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0140.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0200.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0057.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0191.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0292.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0023.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0097.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0199.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0026.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0038.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0114.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0175.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0044.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0249.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0298.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0072.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0012.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0122.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0160.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0173.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0190.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0149.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0270.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0079.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0217.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0121.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0036.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0272.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0087.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0146.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0226.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0172.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0266.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0270.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0255.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0215.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0097.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0181.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0066.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0290.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0080.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0055.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0261.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0187.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0014.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0016.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0145.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0246.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0056.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0242.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0226.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0058.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0064.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0172.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0279.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0003.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0062.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0223.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0220.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0043.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0117.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0291.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0024.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0098.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0049.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0291.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0176.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0288.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0060.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\fear\\fear_0091.npy",
+    "label": "fear",
+    "label_id": 5,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0006.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0054.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0246.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0261.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0017.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0098.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0039.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\angry\\angry_0296.npy",
+    "label": "angry",
+    "label_id": 3,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\neutral\\neutral_0201.npy",
+    "label": "neutral",
+    "label_id": 0,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\happy\\happy_0091.npy",
+    "label": "happy",
+    "label_id": 1,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0204.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\sad\\sad_0287.npy",
+    "label": "sad",
+    "label_id": 2,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\disgust\\disgust_0219.npy",
+    "label": "disgust",
+    "label_id": 6,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0127.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  },
+  {
+    "path": "C:\\Users\\Lenovo\\Downloads\\thesis_project\\smplx_face_mesh\\surprised\\surprised_0200.npy",
+    "label": "surprised",
+    "label_id": 4,
+    "source": "smplx_face_mesh"
+  }
+]
