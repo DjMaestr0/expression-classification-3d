@@ -28,7 +28,7 @@ def load_model(model_name, checkpoint_path, device, input_dim=3072):
         model = MODEL_REGISTRY[model_name](return_features=True).to(device)
 
     state_dict = torch.load(checkpoint_path, map_location=device)
-    # Handle legacy checkpoints that used "net"/"cls" instead of "backbone"/"head"
+   
     if any(k.startswith("net.") for k in state_dict):
         state_dict = {k.replace("net.", "backbone.").replace("cls.", "head."): v
                       for k, v in state_dict.items()}
