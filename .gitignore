@@ -11,10 +11,7 @@ __pycache__/
 
 # Submodules / external repos (clone separately)
 coma/
-smplx/
 
-# Model weights (download separately)
-models/
 checkpoints/
 
 # Large generated data (regenerate from scripts)
@@ -35,6 +32,7 @@ mesh/
 *.ipynb
 *.pth
 skills-lock.json
+smplx/.git_embedded_backup/
 
 # Large result files (keep only key outputs)
 results/face_views_pcd/

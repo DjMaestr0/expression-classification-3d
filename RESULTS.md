@@ -14,9 +14,9 @@ We ran a series of experiments comparing two architectures (MLP and FastPointNet
 | MLP + COMA mesh | MLP | COMA | COMA | 5023 fixed vertices | 77.6% | 77.5% |
 | FastPointNet + COMA pcd | FastPointNet | COMA | COMA | 1024 random points | 67.8% | 67.3% |
 | MLP + SMPL-X pcd | MLP | SMPL-X | SMPL-X | 1024 random points | 72.7%* | 72.6% |
-| MLP + SMPL-X pcd → COMA pcd | MLP | SMPL-X | COMA | 1024 random points | 15.8% | 14.5% |
-| MLP + combined pcd → COMA pcd | MLP | SMPL-X + COMA | COMA | 1024 random points | 17.9% | 14.9% |
-| MLP + COMA mesh → SMPL-X mesh | MLP | COMA | SMPL-X | 5023 fixed vertices | 14.3% | 3.6% |
+| MLP + SMPL-X pcd - COMA pcd | MLP | SMPL-X | COMA | 1024 random points | 15.8% | 14.5% |
+| MLP + combined pcd - COMA pcd | MLP | SMPL-X + COMA | COMA | 1024 random points | 17.9% | 14.9% |
+| MLP + COMA mesh - SMPL-X mesh | MLP | COMA | SMPL-X | 5023 fixed vertices | 14.3% | 3.6% |
 | MLP + SMPL-X mesh | MLP | SMPL-X | SMPL-X | 5023 fixed vertices | 40.6% | 26.3% |
 | FastPointNet + COMA pcd (10%) | FastPointNet | COMA (subset) | COMA | 1024 random points | 42.9% | 37.8% |
 
