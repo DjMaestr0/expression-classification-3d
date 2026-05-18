@@ -36,5 +36,5 @@ smplx/.git_embedded_backup/
 
 # Large result files (keep only key outputs)
 results/face_views_pcd/
-results/figures/
 results/*.npz
+.venv/
