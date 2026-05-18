@@ -18,7 +18,6 @@ N_FACE_VERTS = 5023
 
 
 def compute_face_indices(model):
-    """Find 5023 face vertex indices via expression-direction magnitude + BFS growth."""
     expr_dirs = model.expr_dirs.detach().cpu().numpy()
     expr_mag = np.linalg.norm(expr_dirs, axis=1).max(axis=1)
     core_face = set(np.where(expr_mag > 1e-8)[0].tolist())
